@@ -1,3 +1,5 @@
+[![GitHub Super-Linter](https://github.com/mamercad/do-jumphost/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
+
 # jumphost
 
 Sets up a jump host<sup>[1](jump)</sup> (or, bastion host<sup>[2](bastion)</sup>) in the [DigitalOcean](https://cloud.digitalocean.com/) ☁️. And yes, I'm doing footnotes strangely because I didn't even realize they weren't actually supported in GitHub flavored Markdown<sup>[3](ghmd)</sup> until about 7 minutes ago.
